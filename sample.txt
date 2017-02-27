@@ -1,1 +1,9 @@
 サルでもわかるGitコマンド
+
+
+
+
+$git init
+$git status
+$git add sample.txt
+$git add .
