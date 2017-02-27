@@ -7,3 +7,25 @@ $git init
 $git status
 $git add sample.txt
 $git add .
+
+# $git remote add origin https://github.com/KakikoWrite/dotfiles.git
+
+"" 
+$git remote add origin https://github.com/KakikoWrite/tutorial.git
+
+"" 最初にプッシュする
+$git push -u origin master
+
+"" プッシュがうまくいかない場合
+$git pull 
+
+
+"" リモートのリポジトリをローカルにtutorial2としてクローンする
+$git clone https://github.com/KakikoWrite/tutorial.git tutorial2
+
+
+
+サルでもわかるGitコマンド
+add 変更をインデックスに登録する
+
+
